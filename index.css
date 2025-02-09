@@ -1,0 +1,12 @@
+.container-chrono {
+    width: 400px;
+    border: 10px solid peru;
+    margin: auto;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    font-size: 120px;
+    font-weight: bolder;
+}
